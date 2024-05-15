@@ -4,3 +4,10 @@
 
     Ricordiamoci di inizializzare la variabile di contatore prima dell'inizio del ciclo while
     Ricordiamoci di incrementare il contatore, o comunque di inserire una condizione di uscita, all'interno ciclo while
+
+<!-- > FUNZIONAMENTO -->
+
+definisco un array "lista della spesa"
+definisco una variabile contatore
+inizio un ciclo che stampa uno ad uno gli elementi contenuti nella lista
+    stoppo il ciclo quando il contatore e' === alla lunghezza della lista
